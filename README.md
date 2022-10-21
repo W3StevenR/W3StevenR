@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Steven. 
 - 👀 I’m interested in Full Stack development, IA and machine learning .
-- 🌱 I’m currently learning Java, SQL, ReactNative, C , machine learning.
+- 🌱 I’m currently learning Java, SQL, React.
 - 📫 Contact->Email = 'steven.r.s@hotmail.com'
