@@ -1,6 +1,6 @@
 ### Olá, eu sou o Steven Roger, estudante de programação 👋
 
-#### Cursando o 8º Período de Ciência da Computação na Universidade Federal do Maranhão, apaixonado pelo mundo da programação e suas possibilidades de aplicação.
+#### Cursando o 8º Período de Ciência da Computação na Universidade Federal do Maranhão, apaixonado pelo mundo da programação e suas possibilidades.
 ## Minhas tecnologias 
 <div>
   
